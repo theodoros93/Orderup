@@ -1,7 +1,7 @@
 ﻿
 <?php
 
-$dbhost = 'localhost';
+$dbhost = DATABASE_URL;
 $dbuser = 'root';
 $dbpass = '';
 $db = 'orderup';
